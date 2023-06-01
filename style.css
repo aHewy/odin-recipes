@@ -1,0 +1,20 @@
+body {
+  background-image: linear-gradient(red, blue);
+  font-family: Arieal, sans-serif;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1, h3, ul, p, a {
+  text-align: center;
+  color: white;
+}
+
+ul {
+  list-style-position: inside;
+}
